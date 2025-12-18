@@ -14,8 +14,7 @@ Os scripts abordam necessidades rotineiras de processamento de dados:
 
 | Script | Descrição |
 | :--- | :--- |
-| `Rename_locustag_genome.sh` | Altera locus_tag em arquivos GenBank para o Funannotate. |
-| `Rename_locustag_proteins.sh` | Altera locus_tag em arquivos de proteínas (FASTA) para o Funannotate. |
+| `rename_locus.sh` | Altera locus_tag em arquivos GenBank para o Funannotate. |
 | `annotations_to_tabular.sh` | Converte saídas do eggNOG-mapper. |
 | `genbanktogbk.sh` | Padroniza extensões de arquivos GenBank. |
 | `replace_header_fasta.sh` | Substitui e padroniza cabeçalhos FASTA. |
